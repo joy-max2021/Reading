@@ -1,5 +1,5 @@
 ---
-title: 2022-01-17反常识:有答案不等于解决问题 
+title: 2022-01-17反常识:有答案不等于解决问题.md
 tags: 新建,模板,小书匠
 category: /小书匠/日记/2022-01
 renderNumberedHeading: true
